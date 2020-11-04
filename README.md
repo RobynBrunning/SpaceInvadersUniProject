@@ -9,7 +9,7 @@ Controls are:
 left arrow key, right arrow key, up arrow key, down arrow key
 
 Installation - 
-You will need to have Pygame and Python installed.
+You will need to have Pygame and Python 3.7 installed.
 
 The module libraries you will need are:
 pygame
