@@ -9,12 +9,23 @@ Controls are:
 left arrow key, right arrow key, up arrow key, down arrow key
 
 Installation - 
-On a windows machine you will need to have Pygame and Python 3.7 installed.
+
+On a Windows: 
+Install Python 3.7
+
+then install pygame and mixer with the following commands
+
+python -m pip install -U pygame --user
+python -m pip install -U mixer --user
+
+run game:
+python spaceinvaderssoftwarereport.py
+
 
 On A Mac:
 install python 3.7
 
-then
+then install pygame and mixer with the following commands
 
 python3.7 -m pip install -U pygame --user
 python3.7 -m pip install -U mixer --user
@@ -28,4 +39,5 @@ pygame
 os
 time
 random
+mixer
 mixer
