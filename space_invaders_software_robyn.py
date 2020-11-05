@@ -17,7 +17,7 @@ pygame.font.init()
 
 
 
-WIDTH, HEIGHT = 850, 850
+WIDTH, HEIGHT = 850, 720
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Shooter Tutorial")
 
