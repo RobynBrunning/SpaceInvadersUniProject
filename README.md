@@ -21,6 +21,8 @@ python -m pip install -U mixer --user
 run game:
 python space_invaders_software_robyn.py 
 
+References - 
+Tech with Tim (2020) Creating Space Invaders [Online] Available at https://www.youtube.com/watch?v=Q-__8Xw9KTM (accessed on 20 September 2020)
 
 On A Mac:
 install python 3.7
