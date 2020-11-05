@@ -19,7 +19,7 @@ python -m pip install -U pygame --user
 python -m pip install -U mixer --user
 
 run game:
-python spaceinvaderssoftwarereport.py
+python space_invaders_software_robyn.py 
 
 
 On A Mac:
@@ -31,7 +31,7 @@ python3.7 -m pip install -U pygame --user
 python3.7 -m pip install -U mixer --user
 
 run game:
-python3.7 spaceinvaderssoftwarereport.py
+python3.7 space_invaders_software_robyn.py 
 
 
 The module libraries you will need are:
